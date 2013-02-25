@@ -1,7 +1,7 @@
 {
-  "name": "ssfp",
-  "version": "0.0.1",
-  "description": "Stop Shitty Facebook Photos",
+  "name": "SSFP",
+  "version": "0.1.0",
+  "description": "Stop Shitty Facebook Photos - Facebook Photo Optimization",
   "manifest_version": 2,
   "content_scripts": [{
     "all_frames": true,
